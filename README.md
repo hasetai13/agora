@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Slim Framework 4 Skeleton Application
 
 [![Coverage Status](https://coveralls.io/repos/github/slimphp/Slim-Skeleton/badge.svg?branch=master)](https://coveralls.io/github/slimphp/Slim-Skeleton?branch=master)
@@ -40,3 +41,7 @@ composer test
 ```
 
 That's it! Now go build something cool.
+=======
+# agora
+php マイクロフレームワーク Slimを使った勤怠管理アプリ
+>>>>>>> 11be55e1c0cc470ebe182552bb813186541d573c
